@@ -1,0 +1,13 @@
+# Homework Number X (variable)
+
+Please don't solve any of the problems specified in the text. Each problem must be separated by two code cells 
+and written in Spanish. Make sure all problems are exactly as they appear in the text, with a precise 
+and clear translation. Do not add anything extra.
+
+Use appropriate structure and formatting in the Markdown blocks for each problem, separated by 
+well-organized code cells and use good latex if it is needed.
+
+If any problem requires a link, include it after the problem statement as "Source: [link]".
+
+
+
