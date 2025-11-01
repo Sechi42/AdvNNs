@@ -27,6 +27,8 @@ share/python-wheels/
 *.egg
 PIPFILE.lock
 
+WEEK_1/data/MNIST/raw
+
 # PyInstaller
 *.manifest
 *.spec
