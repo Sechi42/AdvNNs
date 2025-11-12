@@ -28,6 +28,7 @@ share/python-wheels/
 PIPFILE.lock
 
 WEEK_1/data/MNIST/raw
+WEEK_3/data_224/
 
 # PyInstaller
 *.manifest
