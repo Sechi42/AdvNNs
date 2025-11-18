@@ -202,3 +202,6 @@ notes.txt
 TODO.md
 scratch/
 [data_224/]
+
+# Generated HTML files from notebooks
+WEEK_*/Tarea*.html
